@@ -26,7 +26,7 @@
     },
     "dependencies": {
         "@bytefury/spacewind": "^0.5.3",
-        "@vue-hero-icons/outline": "^1.6.3",
+        "@vue-hero-icons/outline": "^1.7.2",
         "@vue-hero-icons/solid": "^1.6.3",
         "axios": "^0.21",
         "chart.js": "^2.7.3",

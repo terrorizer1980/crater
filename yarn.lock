@@ -1183,13 +1183,12 @@
   resolved "https://registry.yarnpkg.com/@types/svgo/-/svgo-1.3.3.tgz#4684af265b4e1125c738f5aaafb302c723f4efe0"
   integrity sha512-eDLVUvvTn+mol3NpP211DTH9JzSS6YKssRIhHNmXk5BiCl+gc4s+xQQjRFTSsGBohmka5qBsHX6qhL4x88Wkvg==
 
-"@vue-hero-icons/outline@^1.6.3":
-  version "1.6.3"
-  resolved "https://registry.yarnpkg.com/@vue-hero-icons/outline/-/outline-1.6.3.tgz#7776bc04beed001f6bcf153c16a96cb20afdeba0"
-  integrity sha512-vyWDAnT3U8aU1spQvaeHnkysc8IWQNdptRmyX6MCd3cHPNHHd3Jzg1svpwQd/cyJ13zPtiSLU+zW8i3jNcvcKA==
+"@vue-hero-icons/outline@^1.7.2":
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/@vue-hero-icons/outline/-/outline-1.7.2.tgz#ec723ee45e142d2249948c58be65f5d35e3c4ed3"
+  integrity sha512-mgMpncarjZHXY1K2tyjbYHf53yQG9amroDR9t2iH/umpsN8+f8RNcTy1m131EZ8WBCm8MpF97XpXPV129rvtVg==
   dependencies:
-    "@vue/babel-helper-vue-jsx-merge-props" "^1.0.0"
-    heroicons "git+https://github.com/refactoringui/heroicons.git#master"
+    babel-helper-vue-jsx-merge-props "^2.0.3"
 
 "@vue-hero-icons/solid@^1.6.3":
   version "1.6.3"
@@ -1717,6 +1716,11 @@ babel-eslint@^8.2.6:
     babylon "7.0.0-beta.44"
     eslint-scope "3.7.1"
     eslint-visitor-keys "^1.0.0"
+
+babel-helper-vue-jsx-merge-props@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-2.0.3.tgz#22aebd3b33902328e513293a8e4992b384f9f1b6"
+  integrity sha512-gsLiKK7Qrb7zYJNgiXKpXblxbV5ffSwR0f5whkPAaBAR4fhi6bwRZxX9wBlIc5M/v8CCkXUbXZL4N/nSE97cqg==
 
 babel-loader@^8.1.0:
   version "8.2.2"
