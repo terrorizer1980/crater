@@ -36,7 +36,7 @@
         "sweet-modal-vue": "^2.0.0",
         "tailwindcss": "^2.0.1",
         "v-tooltip": "^2.0.2",
-        "vue": "^2.6.10",
+        "vue": "^3.0.0",
         "vue-i18n": "^8.22.0",
         "vue-loader": "^15.9.3",
         "vue-router": "2.7.0",
